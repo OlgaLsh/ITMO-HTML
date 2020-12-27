@@ -1,0 +1,53 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<TimeTable xmlns:myns = "http://www.itmo.ru/xml/lessons" xmlns:lit = "https://www.google.com/">
+    
+	<myns:lesson>
+	    <myns:Course>Технологии программирования</myns:Course>
+		<myns:TeacherName>Осипов Н.А.</myns:TeacherName>
+		<myns:LessonTime>18:30 - 21:50</myns:LessonTime>
+        <myns:StartDate>29.09.2020</myns:StartDate>
+		<myns:EndDate>16.10.2020</myns:EndDate>
+		<myns:FinalGrade>зачёт</myns:FinalGrade>
+		<lit:Literature>Website #1</lit:Literature>
+	</myns:lesson>
+	
+	<myns:lesson>
+        <myns:Course>Программирование на С#</myns:Course>
+		<myns:TeacherName>Осипов Н.А.</myns:TeacherName>
+		<myns:LessonTime>18:30 - 21:50</myns:LessonTime>
+        <myns:StartDate>19.10.2020</myns:StartDate>
+		<myns:EndDate>06.11.2020</myns:EndDate>
+		<myns:FinalGrade>зачёт</myns:FinalGrade>
+		<lit:Literature>Website #2</lit:Literature>
+	</myns:lesson>
+	
+	<myns:lesson>
+	    <myns:Course>Введение в базы данных</myns:Course>
+		<myns:TeacherName>Осетрова И.С.</myns:TeacherName>
+		<myns:LessonTime>18:30 - 21:50</myns:LessonTime>
+        <myns:StartDate>09.11.2020</myns:StartDate>
+		<myns:EndDate>20.11.2020</myns:EndDate>
+		<myns:FinalGrade>зачёт</myns:FinalGrade>
+		<lit:Literature>Website #3</lit:Literature>
+	</myns:lesson>
+	
+	<myns:lesson>
+	    <myns:Course>Разработка Windows-приложений на C#</myns:Course>
+		<myns:TeacherName>Смольянинов А.В.</myns:TeacherName>
+		<myns:LessonTime>18:30 - 21:50</myns:LessonTime>
+        <myns:StartDate>23.11.2020</myns:StartDate>
+		<myns:EndDate>11.12.2020</myns:EndDate>
+		<myns:FinalGrade>экзамен</myns:FinalGrade>
+		<lit:Literature>Website #4</lit:Literature>
+	</myns:lesson>
+	
+	<myns:lesson>
+	    <myns:Course>Основы технологий разметки (HTML, XML)</myns:Course>
+		<myns:TeacherName>Смольянинов А.В.</myns:TeacherName>
+		<myns:LessonTime>18:30 - 21:50</myns:LessonTime>
+        <myns:StartDate>14.12.2020</myns:StartDate>
+		<myns:EndDate>18.12.2020</myns:EndDate>
+		<myns:FinalGrade>зачёт</myns:FinalGrade>
+		<lit:Literature>Website #5</lit:Literature>
+	</myns:lesson>
+</TimeTable>

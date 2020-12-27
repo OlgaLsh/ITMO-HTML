@@ -1,0 +1,48 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<TimeTable>
+    
+	<lesson>
+	    <Course>Технологии программирования</Course>
+		<TeacherName>Осипов Н.А.</TeacherName>
+		<LessonTime>18:30 - 21:50</LessonTime>
+        <StartDate>29.09.2020</StartDate>
+		<EndDate>16.10.2020</EndDate>
+		<FinalGrade>зачёт</FinalGrade>
+	</lesson>
+	
+	<lesson>
+        <Course>Программирование на С#</Course>
+		<TeacherName>Осипов Н.А.</TeacherName>
+		<LessonTime>18:30 - 21:50</LessonTime>
+        <StartDate>19.10.2020</StartDate>
+		<EndDate>06.11.2020</EndDate>
+		<FinalGrade>зачёт</FinalGrade>
+	</lesson>
+	
+	<lesson>
+	    <Course>Введение в базы данных</Course>
+		<TeacherName>Осетрова И.С.</TeacherName>
+		<LessonTime>18:30 - 21:50</LessonTime>
+        <StartDate>09.11.2020</StartDate>
+		<EndDate>20.11.2020</EndDate>
+		<FinalGrade>зачёт</FinalGrade>
+	</lesson>
+	
+	<lesson>
+	    <Course>Разработка Windows-приложений на C#</Course>
+		<TeacherName>Смольянинов А.В.</TeacherName>
+		<LessonTime>18:30 - 21:50</LessonTime>
+        <StartDate>23.11.2020</StartDate>
+		<EndDate>11.12.2020</EndDate>
+		<FinalGrade>экзамен</FinalGrade>
+	</lesson>
+	
+	<lesson>
+	    <Course>Основы технологий разметки (HTML, XML)</Course>
+		<TeacherName>Смольянинов А.В.</TeacherName>
+		<LessonTime>18:30 - 21:50</LessonTime>
+        <StartDate>14.12.2020</StartDate>
+		<EndDate>18.12.2020</EndDate>
+		<FinalGrade>зачёт</FinalGrade>
+	</lesson>
+</TimeTable>

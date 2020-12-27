@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+  <book_catalog>
+    <book id="123" isbn="2-987-457" year="2005" issue="original">
+      <authors>
+        <author>Александр Сергеевич Пушкин</author>
+      </authors>
+      <title>"Руслан и Людмила"</title>
+      <publishing>Издательство ЭКСМО</publishing>
+      <annotation>Поэму А.С.Пушкина "Руслан и Людмила" с одинаковым удовольствием читают взрослые и дети. Поэт удивительным образом соединил загадочное волшебство с романтической историей любви, почти детективную таинственность с рассказом о верности и предательстве, создав литературный шедевр, по праву вошедший в сокровищницу русской литературы.</annotation>
+    </book>
+	
+    <book id="456" isbn="2-654-447" year="2010" issue="translation">
+      <authors>
+        <author>Стивен Кинг</author>
+      </authors>
+      <title>"ОНО"</title>
+      <publishing>Издательство АСТ</publishing>
+      <annotation>«Оно́» — роман американского писателя Стивена Кинга, написанный в жанре ужасов, впервые опубликованный в 1986 году издательством Viking Press. В произведении затрагиваются важные для Кинга темы: власть памяти, сила объединенной группы, влияние травм детства на взрослую жизнь.</annotation>
+    </book>
+	
+  </book_catalog>
+  <author_catalog>
+    <author_book idref="123">Александр Сергеевич Пушкин</author_book>
+	<author_book idref="456">Стивен Кинг</author_book>
+  </author_catalog>
+  
+</library>
