@@ -1,0 +1,20 @@
+html {
+padding-top: 20px;
+background-image: url(sea.jpg);
+background-repeat:no-repeat;
+background-position:left top;
+background-size: 100%;
+}
+body {
+width: 80%;
+padding: 20px;
+margin: 50px auto;
+border-radius:30px;
+box-shadow: 20px 20px 20px rgba(0,0,0,.5);
+background-color:rgba(0, 255, 255, 0.9);
+}
+h1{
+        color: #0000CD;
+        font-size: 3em;
+        margin: 0;
+          }
